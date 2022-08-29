@@ -19,15 +19,15 @@
 
 ## Get started
 
-1. clone the git repository
-### `git clone https://github.com/jeevanalok/PokeCatch `
+### 1. clone the git repository
+`git clone https://github.com/jeevanalok/PokeCatch `
 
-2. Install the dependencies
-### `npm install`
+### 2. Install the dependencies
+`npm install`
 
-3. In the project directory, you can run:
+### 3. In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 Runs the app and enjoy!
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
