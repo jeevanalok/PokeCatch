@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import pokeball from "../images/pokeball.svg";
 import attack from "../images/battle.png";
 import defence from "../images/shield1.png";
 import speed from "../images/speed.png";
