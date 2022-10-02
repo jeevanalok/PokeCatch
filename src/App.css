@@ -101,6 +101,13 @@ body {
   background-image: url("./images/pokeball.svg");
   background-repeat: no-repeat;
   background-size: contain;
+
+}
+
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0 10px 7px #f86060;
+
 }
 
 .tt {
